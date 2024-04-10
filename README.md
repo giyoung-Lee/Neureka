@@ -48,25 +48,25 @@
 ![메인](./exec/img/메인.gif)
 
 ### 기사전체
-![기사전체](/uploads/914a7eaed7b7a946a6a97bd7de13bebe/기사전체.webp)
+![기사전체](./exec/img/기사전체.gif)
 
 ### 기사상세
-![기사상세](/uploads/25ba77b24be83b889806d7f33ebb1192/기사상세.webp)
+![기사상세](./exec/img/기사상세.gif)
 
 ### 기업
-![기업](/uploads/d2d5b2e2575c054fbb60c5618877a811/기업.webp)
+![기업](./exec/img/기업.gif)
 
 ### 튜토리얼
-![튜토리얼](/uploads/ba32099a6e4b8290e4604244a3986448/튜토리얼.webp)
+![튜토리얼](./exec/img/튜토리얼.gif)
 
 ### 사전
-![사전](/uploads/0de6311d580914af7741afba15723777/사전.webp)
+![사전](./exec/img/사전.gif)
 
 ### tts
-![tts](/uploads/b07967ef0648cd5af4fcfd2dcad06693/tts.webp)
+![tts](./exec/img/tts.gif)
 
 ### 메일링
-![메일링](/uploads/f5524984c47dab68e9a4326750355afa/메일링.webp)
+![메일링](./exec/img/메일링.gif)
 
 
 ## 6. 기술 스택 및 개발환경
@@ -134,24 +134,24 @@
 
 - 시스템 구조도
     
-    ![system_architect](/uploads/a54375dd0a8ba960a058b0ab7b58f3f7/system_architect.png)
+    ![system_architect](./exec/img/system_architect.png)
     
 - 사용 기술
     - Backend
         
-        ![Backend](/uploads/73b551d08a8cf01ec195e311f160b54b/Backend.PNG)
+        ![Backend](./exec/img/Backend.PNG)
         
     - FrontEnd
         
-        ![Frontend](/uploads/4befe0c5fbd3e1fdca659ecad3ba4d5c/Frontend.PNG)
+        ![Frontend](./exec/img/Frontend.PNG)
         
     - Python
         
-        ![Python_](/uploads/dfd81880c6046c7681fb3dd97b058793/Python_.PNG)
+        ![Python_](./exec/img/Python_.PNG)
         
     - Deployment
         
-        ![Deployment](/uploads/c2a011f5575fc7a07726a3243ad491c6/Deployment.PNG)
+        ![Deployment](./exec/img/Deployment.PNG)
         
 
 - 사용 알고리즘 및 API
@@ -188,13 +188,13 @@
 
 ### MySQL ERD
 
-![mysql_erd](/uploads/17c0adf4509bb6fa3a8ab0246f16d038/mysql_erd.png)
+![mysql_erd](./exec/img/mysql_erd.png)
 
 ### MongoDB ERD
 
 [NEureka_mongoDB](https://www.erdcloud.com/d/hvAGNzPFk9sCjAHSr)
 
-![Stocker_mongoDB__1_](/uploads/914aae3aa274ae53a33b13afc87f1b4a/Stocker_mongoDB__1_.png)
+![mongoDB](./exec/img/mongoDB.png)
 
 ### 기능명세서
 
