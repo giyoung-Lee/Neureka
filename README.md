@@ -45,7 +45,7 @@
 ## 5. 주요 기능 시연
 
 ### 메인
-![메인]("https://lab.ssafy.com/s10-bigdata-recom-sub2/S10P22C105/uploads/5749cda41cef0db69c8606e798a585b9/%EB%A9%94%EC%9D%B8.webp"))
+![메인]("https://lab.ssafy.com/s10-bigdata-recom-sub2/S10P22C105/uploads/5749cda41cef0db69c8606e798a585b9/%EB%A9%94%EC%9D%B8.webp")
 
 ### 기사전체
 ![기사전체](/uploads/914a7eaed7b7a946a6a97bd7de13bebe/기사전체.webp)
